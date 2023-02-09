@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria 
 - 👀 I’m a Vet interested in Epidemiology and Public Health
-- 🌱 I’m currently learning R and am pursuing a MSc in Epidemiology
+- 🌱 I’m currently focused on programming with R and am pursuing a MSc in Epidemiology
 - 💞️ I’m looking to collaborate on Zoonosis, Public Health and Epidemiology topics
 
 <!---
