@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria 
-- 👀 I’m a Vet interested in Epidemiology and Biostatistics
+- 👀 I’m a Vet working in Biostatistics and Epidemiology
 - 🌱 I’m currently focused on programming with R and am pursuing a MSc in Epidemiology
 - 💞️ I’m looking to collaborate on Zoonosis, One Health and Epidemiology topics
 
